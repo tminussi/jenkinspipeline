@@ -1,0 +1,14 @@
+{
+  "name": "jenkins_pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "newman run pip8.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^3.9.1"
+  }
+}
